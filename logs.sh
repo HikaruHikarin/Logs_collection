@@ -1,5 +1,5 @@
 #!/bin/bash
-# Program for Log Collecting
+# Program for Log Collection
 # 10-16-18
 
 POSITIONAL=()
